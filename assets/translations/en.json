@@ -1,0 +1,17 @@
+{
+  "price": "Price",
+  "stock": "Stock",
+  "brand": "Brand",
+  "category": "Category",
+  "color": "Color",
+  "size": "Size",
+  "rating": "Rating",
+  "product": "Product",
+  "product_details": "Product Details",
+  "add_to_wishlist": "Add to Wishlist",
+  "remove_from_wishlist": "Remove from Wishlist",
+  "search": "Search",
+  "home": "Home",
+  "favorite": "Favorite",
+  "description": "Description"
+}

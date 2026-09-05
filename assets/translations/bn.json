@@ -1,0 +1,17 @@
+{
+    "price": "দাম",
+    "stock": "স্টক",
+    "brand": "ব্র্যান্ড",
+    "category": "বিষয়শ্রেণী",
+    "color": "রঙ",
+    "size": "আকার",
+    "rating": "রেটিং",
+    "product": "পণ্য",
+    "product_details": "পণ্যের বিবরণ",
+    "add_to_wishlist": "ইচ্ছার তালিকায় যোগ করুন",
+    "remove_from_wishlist": "ইচ্ছা তালিকা থেকে অপসারণ করুন",
+    "search": "সন্ধান",
+    "home": "মূল",
+    "favorite": "পছন্দসই",
+    "description": "বর্ণনা"
+    }

@@ -1,0 +1,17 @@
+{
+    "price": "দাম",
+    "stock": "স্টক",
+    "brand": "ব্ৰেণ্ড",
+    "category": "শ্ৰেণী",
+    "color": "ৰং",
+    "size": "আকাৰ",
+    "rating": "ৰেটিং",
+    "product": "সামগ্ৰী",
+    "product_details": "সামগ্ৰীৰ বিৱৰণ",
+    "add_to_wishlist": "ইচ্ছা তালিকাত যোগ কৰক",
+    "remove_from_wishlist": "ইচ্ছা তালিকা পৰা আঁতৰাওক",
+    "search": "অনুসন্ধান",
+    "home": "মূল",
+    "favorite": "প্ৰিয়",
+    "description": "বিৱৰণ"
+    }
