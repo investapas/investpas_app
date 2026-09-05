@@ -1,0 +1,17 @@
+{
+    "price": "कीमत",
+    "stock": "स्टॉक",
+    "brand": "ब्रांड",
+    "category": "श्रेणी",
+    "color": "रंग",
+    "size": "आकार",
+    "rating": "रेटिंग",
+    "product": "उत्पाद",
+    "product_details": "उत्पाद विवरण",
+    "add_to_wishlist": "इच्छा सूची में जोड़ें",
+    "remove_from_wishlist": "इच्छा सूची से हटाएँ",
+    "search": "खोज",
+    "home": "घर",
+    "favorite": "पसंदीदा",
+    "description": "विवरण"
+    }

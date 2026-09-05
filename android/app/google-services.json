@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602355299853",
+    "project_id": "investapas-fab35",
+    "storage_bucket": "investapas-fab35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602355299853:android:0a3c6480119d8ec2024744",
+        "android_client_info": {
+          "package_name": "com.dev.investapas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDV05AQSHKxobBDPF2q9mZQgJxmeWlMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
